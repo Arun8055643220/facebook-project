@@ -4,6 +4,6 @@ node{
     }
      stage('Complie-package'){
         def mvnHome =tool name: 'mavan', type: 'maven'
-        sh "4{mvnHome} /bin/mvn package"
+        sh "${mvnHome}/bin/mvn package"
         }
         }
