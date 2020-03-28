@@ -12,6 +12,7 @@
 	<groupId>test.santosh</groupId>
 	<artifactId>Spring-Boot-Security-Facebook-Login-Oauth</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>Spring-Boot-Security-Facebook-Login-Oauth</name>
 	<description>Demo project for Spring Boot</description>
 
